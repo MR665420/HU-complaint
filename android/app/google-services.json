@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446359362972",
+    "project_id": "hu-complaint",
+    "storage_bucket": "hu-complaint.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446359362972:android:0175f38ebdecab933afc59",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446359362972-rgnm09k6kvnmmnkgn7ed1ehnc5iun7u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs87NMFopXmMLfvMY6oj2YeOqucT80EdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446359362972-rgnm09k6kvnmmnkgn7ed1ehnc5iun7u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
